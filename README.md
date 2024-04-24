@@ -9,7 +9,7 @@ Passionated about coding, gaming and working out 🤓💪
 ### Programming languages
 <p align="left"> 
   &emsp; 
-  <a href="https://golang.org/" target="_blank"> 
+  <a href="https://golang.org" target="_blank"> 
     <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   </a> 
   &emsp;
@@ -19,10 +19,14 @@ Passionated about coding, gaming and working out 🤓💪
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   </a>
+  </a>
   &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank"> 
+     <img alt="Csharp" src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.java.com/en" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
 </p>
 
@@ -30,11 +34,11 @@ Passionated about coding, gaming and working out 🤓💪
 ### Editors 
 <p align="left"> 
   &emsp; 
-  <a href="https://code.visualstudio.com/" target="_blank"> 
+  <a href="https://code.visualstudio.com" target="_blank"> 
     <img alt="VSCODE" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
   &emsp; 
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+  <a href="https://www.jetbrains.com/idea" target="_blank"> 
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   </a>
 </p>
@@ -42,20 +46,20 @@ Passionated about coding, gaming and working out 🤓💪
 ### Databases
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+    <a href="https://www.sqlite.org"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
  </p>
  
 
 ### Cool stuff
 <p align="left">
   &emsp;
-    <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+    <a href="https://kubernetes.io"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
   &emsp;
-    <a href="https://www.terraform.io/"><img alt="Terraform" src ="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/></a>
+    <a href="https://www.terraform.io"><img alt="Terraform" src ="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.docker.com/"><img alt="Terraform" src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+    <a href="https://www.docker.com"><img alt="Terraform" src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
  </p>
 
 
